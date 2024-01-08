@@ -27,21 +27,21 @@
 
 <p align="center">
   <a href="https://github.com/Aj7839">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aj7839&theme=vue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aj7839&theme=ayu-mirage" />
   </a>
   <a href="https://github.com/Aj7839">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aj7839&hide_border=true&card_width=338&theme=vue" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aj7839&hide_border=true&card_width=338&theme=ayu-mirage" />
   </a>
   <a href="https://github.com/Aj7839">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aj7839&theme=vue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aj7839&theme=ayu-mirage" />
   </a>
   <a href="https://github.com/Aj7839">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7839&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7839&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=ayu-mirage" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aj7839">
-    <img src="https://komarev.com/ghpvc/?username=Aj7839&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=Aj7839&color=purple&style=flat" />
   </a>
 </p>
