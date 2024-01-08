@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/Aj7839">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aj7839&theme=ayu-mirage" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aj7839&theme=radical" />
   </a>
   <a href="https://github.com/Aj7839">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aj7839&hide_border=true&card_width=338&theme=ayu-mirage" />
