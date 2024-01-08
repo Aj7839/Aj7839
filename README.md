@@ -13,10 +13,9 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Aj7839)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Aj7839)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Aj7839)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Aj7839)
-[![Html](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html&logoColor=white)](https://github.com/Aj7839)
-[![Css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/Aj7839)
+[![Html](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Aj7839)
+[![Css](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Aj7839)
 
 
 
