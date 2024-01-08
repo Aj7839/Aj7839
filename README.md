@@ -10,7 +10,7 @@
     </a>
 </p>
 
-Languages
+### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Aj7839)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Aj7839)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Aj7839)
@@ -21,28 +21,28 @@ Languages
 
 
 
-OS
+### OS
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)](https://github.com/Aj7839)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Aj7839)
 
 
 <p align="center">
   <a href="https://github.com/Aj7839">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darth-raijin&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aj7839&theme=transparent" />
   </a>
   <a href="https://github.com/Aj7839">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=darth-raijin&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aj7839&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/Aj7839">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=darth-raijin&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aj7839&theme=transparent" />
   </a>
   <a href="https://github.com/Aj7839">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darth-raijin&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7839&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aj7839">
-    <img src="https://komarev.com/ghpvc/?username=darth-raijin&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=Aj7839&color=blue&style=flat)" />
   </a>
 </p>
