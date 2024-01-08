@@ -42,6 +42,6 @@
 
 <p align="center">
   <a href="https://github.com/Aj7839">
-    <img src="https://komarev.com/ghpvc/?username=Aj7839&color=purple&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=Aj7839&color=radical&style=flat" />
   </a>
 </p>
