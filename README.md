@@ -3,9 +3,9 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        Software Engineer Degree Apprentice.<br>
+        Software Engineer Degree Apprentice<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/alex-wilson-2bb51a1b4/">
+    <a href="https://www.linkedin.com/in/alex-w-2bb51a1b4/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
@@ -17,13 +17,9 @@
 [![Html](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Aj7839)
 [![Css](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Aj7839)
 
-
-
-
 ### OS
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)](https://github.com/Aj7839)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Aj7839)
-
 
 <p align="center">
   <a href="https://github.com/Aj7839">
@@ -36,7 +32,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aj7839&theme=transparent" />
   </a>
   <a href="https://github.com/Aj7839">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7839&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj7839&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 
@@ -45,6 +41,3 @@
     <img src="https://komarev.com/ghpvc/?username=Aj7839&theme=transparent&style=flat" />
   </a>
 </p>
-
-
-
