@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        Undergraduate Computer Science Student.<br>
+        Software Engineer Degree Apprentice.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/alex-wilson-2bb51a1b4/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
